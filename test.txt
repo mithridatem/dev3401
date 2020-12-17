@@ -1,5 +1,12 @@
+<<<<<<< Updated upstream
 jkhiqfsdbhbfqihjqsfqzjkh
 
 
 test
  ajout de modif
+=======
+modif2
+
+
+ajout de texte
+>>>>>>> Stashed changes
